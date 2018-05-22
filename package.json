@@ -5,6 +5,10 @@
   "license": "MIT",
   "description": "Synonyms in your terminal",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/druc/sini.git"
+  },
   "keywords": [
     "synonyms",
     "thesaurus",
