@@ -5,6 +5,15 @@
   "license": "MIT",
   "description": "Synonyms in your terminal",
   "main": "index.js",
+  "keywords": [
+    "synonyms",
+    "thesaurus",
+    "dictionary"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
