@@ -1,13 +1,13 @@
 {
   "name": "sini",
   "version": "1.0.0",
+  "author": "Constantin Druc",
+  "license": "ISC",
   "description": "Synonyms in your terminal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
     "minimist": "^1.2.0",
