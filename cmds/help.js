@@ -1,6 +1,6 @@
 const menus = {
     main: `
-    sini [word]          search synonyms
+    sini [word]          search similar words
     sini [word] [limit]  limit results
 
     version ............ show package version

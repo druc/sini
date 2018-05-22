@@ -2,7 +2,7 @@
   "name": "sini",
   "version": "1.0.0",
   "author": "Constantin Druc",
-  "license": "ISC",
+  "license": "MIT",
   "description": "Synonyms in your terminal",
   "main": "index.js",
   "scripts": {
