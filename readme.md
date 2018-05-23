@@ -18,6 +18,9 @@ insulate    safeguarding
 ensure      insure
 ```
 
+## Preview
+![sini preview](https://cdn.falcon.zone/sini.gif)
+
 ## Credits
 [Datamuse API](http://www.datamuse.com/api/ "Datamuse Api") - thank you for making this free.
 ## License
