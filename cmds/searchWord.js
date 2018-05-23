@@ -56,7 +56,6 @@ module.exports = async (searchTerm, maxResults) => {
             spinner.stop();
         } catch (err) {
             spinner.stop();
-            console.log(err);
             console.error("The thesaurus api failed us this time.");
         }
     }
